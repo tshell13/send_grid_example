@@ -18,9 +18,9 @@ to_emails = ["recipient1@example.com", "recipient2@example.com"]
 ```
 
 ### 4. Verify Sender
-Log into your SendGrid admin panel
-Verify your sender identity
-Ensure your sending email is authenticated
+- Log into your SendGrid admin panel
+- Verify your sender identity
+- Ensure your sending email is authenticated
 
 ### 5. Run the Application
 Execute the main script:
